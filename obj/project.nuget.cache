@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ke+Qby3owOhD1EWh26RJEeMbwY9kqEROwlNrUcwJ+5JD5FjeP5K8PG0tKdfSsVo7meWf445Q/2jCTz9XIhkzvg==",
+  "success": true,
+  "projectFilePath": "F:\\C# practice\\Library Mangment System\\Library Mangment System\\Library Mangment System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Amira\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Amira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Amira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

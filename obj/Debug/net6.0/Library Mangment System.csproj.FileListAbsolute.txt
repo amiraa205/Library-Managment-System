@@ -1,0 +1,14 @@
+F:\C# practice\Library Mangment System\Library Mangment System\bin\Debug\net6.0\Library Mangment System.exe
+F:\C# practice\Library Mangment System\Library Mangment System\bin\Debug\net6.0\Library Mangment System.deps.json
+F:\C# practice\Library Mangment System\Library Mangment System\bin\Debug\net6.0\Library Mangment System.runtimeconfig.json
+F:\C# practice\Library Mangment System\Library Mangment System\bin\Debug\net6.0\Library Mangment System.dll
+F:\C# practice\Library Mangment System\Library Mangment System\bin\Debug\net6.0\Library Mangment System.pdb
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\Library Mangment System.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\Library Mangment System.AssemblyInfoInputs.cache
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\Library Mangment System.AssemblyInfo.cs
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\Library Mangment System.csproj.CoreCompileInputs.cache
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\Library Mangment System.dll
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\refint\Library Mangment System.dll
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\Library Mangment System.pdb
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\Library Mangment System.genruntimeconfig.cache
+F:\C# practice\Library Mangment System\Library Mangment System\obj\Debug\net6.0\ref\Library Mangment System.dll
